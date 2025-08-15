@@ -44,7 +44,7 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Sarah Alminawi </code>
 </h3>
   <p align="center"> 
 
